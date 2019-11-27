@@ -1,6 +1,163 @@
+# Windows image file caches
 
-Intermediate/CachedAssetRegistry.bin
-Saved/Config/CrashReportClient/UE4CC-Windows-3C09971D45CA540CC3DABEAE7A06E92F/CrashReportClient.ini
-Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Saved/Logs/Dubium-backup-2019.11.27-14.35.33.log
-Saved/Logs/Dubium.log
+Thumbs.db
+
+ehthumbs.db
+
+
+
+# Folder config file
+
+Desktop.ini
+
+
+
+# Recycle Bin used on file shares
+
+$RECYCLE.BIN/
+
+
+
+# Windows Installer files
+
+*.cab
+
+*.msi
+
+*.msm
+
+*.msp
+
+
+
+# Windows shortcuts
+
+
+
+# =========================
+
+# Operating System Files
+
+# =========================
+
+
+
+# OSX
+
+# =========================
+
+
+
+.DS_Store
+
+.AppleDouble
+
+.LSOverride
+
+
+
+# Thumbnails
+
+._*
+
+
+
+# Files that might appear on external disk
+
+.Spotlight-V100
+
+.Trashes
+
+
+
+# Directories potentially created on remote AFP share
+
+.AppleDB
+
+.AppleDesktop
+
+Network Trash Folder
+
+Temporary Items
+
+.apdisk
+
+
+
+# UE4 Project directories to ignore
+
+.vs/
+
+Saved/
+
+Builds/WindowsNoEditor/
+
+Builds/WindowsClient/
+
+Builds/WindowsServer/
+
+Build/
+
+Binaries/
+
+Intermediate/
+
+DerivedDataCache/
+
+Plugins/AdvancedSessions/Intermediate/
+
+Plugins/AdvancedSessions/Binaries/
+
+Plugins/AdvancedSessions/Saved/
+
+Plugins/AdvancedSteamSessions/Intermediate/
+
+Plugins/AdvancedSteamSessions/Binaries/
+
+Plugins/AdvancedSteamSessions/Saved/
+
+
+
+# Visual Studio solutions
+
+*.sdf
+
+*.suo
+
+*.sln
+
+*.opensdf
+
+*.VC.db
+
+
+
+# Linux Project files
+
+*.pro
+
+*.kdev4
+
+CMakeLists.txt
+
+Makefile
+
+
+
+# Xcode Project files
+
+*.xcodeproj
+
+
+
+# Other files not needed
+
+*.rar
+
+*.zip
+
+*.pub
+
+SurviveKey
+
+*.spp
